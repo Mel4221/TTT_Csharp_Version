@@ -1,0 +1,3 @@
+/home/mel/Documents/csharp/TTT/bin/Release/TTT.exe
+/home/mel/Documents/csharp/TTT/obj/x86/Release/TTT.csproj.CoreCompileInputs.cache
+/home/mel/Documents/csharp/TTT/obj/x86/Release/TTT.exe

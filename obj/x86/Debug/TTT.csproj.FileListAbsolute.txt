@@ -1,0 +1,6 @@
+/home/mel/Documents/csharp/TTT/bin/Debug/TTT.exe
+/home/mel/Documents/csharp/TTT/bin/Debug/TTT.pdb
+/home/mel/Documents/csharp/TTT/obj/x86/Debug/TTT.csproj.AssemblyReference.cache
+/home/mel/Documents/csharp/TTT/obj/x86/Debug/TTT.csproj.CoreCompileInputs.cache
+/home/mel/Documents/csharp/TTT/obj/x86/Debug/TTT.exe
+/home/mel/Documents/csharp/TTT/obj/x86/Debug/TTT.pdb
