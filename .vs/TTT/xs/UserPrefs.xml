@@ -1,19 +1,15 @@
 ﻿<Properties StartupConfiguration="{53C58BAC-1547-48DD-8741-770F9DD0B961}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Data/DataManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game_PrintMap.cs">
     <Files>
-      <File FileName="Game.cs" Line="120" Column="7" />
-      <File FileName="Game_Fields.cs" Line="17" Column="30" />
-      <File FileName="Game_WinChecker.cs" Line="162" Column="1" />
-      <File FileName="Data/DataManager.cs" Line="7" Column="13" />
+      <File FileName="Game_PrintMap.cs" Line="20" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TTT" expanded="True">
             <Node name="TTT" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="DataManager.cs" selected="True" />
-              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Game_PrintMap.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -21,7 +17,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

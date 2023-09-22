@@ -40,6 +40,9 @@
     <Compile Include="Cell.cs" />
     <Compile Include="Game_Fields.cs" />
     <Compile Include="Data\DataManager.cs" />
+    <Compile Include="Game_History.cs" />
+    <Compile Include="Game_Configuration.cs" />
+    <Compile Include="Game_PrintMap.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
